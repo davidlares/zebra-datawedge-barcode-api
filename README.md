@@ -10,7 +10,7 @@ Plase check the `stagenow.pdf` file
 
 ## StageNow PDF417 barcode
 
-![StageNow Custom profile](https://anonfiles.com/96g4W22ez2/stagenow_custom_profile_png)
+![StageNow Custom profile](https://cdn-141.anonfiles.com/96g4W22ez2/42cf334f-1689742182/stagenow-custom-profile.png)
 
 ## Credits
 
