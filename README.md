@@ -12,6 +12,16 @@ Plase check the `stagenow.pdf` file
 
 ![StageNow Custom profile](https://cdn-141.anonfiles.com/96g4W22ez2/42cf334f-1689742182/stagenow-custom-profile.png)
 
+## (Optional) Creating the DataWedge profile manually
+
+You'll need to follow these steps
+
+1. Create a custom profile, name it as you want. Ex: CustomProfile
+2. Set it to active
+3. Enable the barcode input
+4. Set the intent input active
+5. Set as intent `com.davidlares.DWApp.ACTION` and leave the category as default
+
 ## Credits
 
  - [David E Lares](https://twitter.com/davdlares)
