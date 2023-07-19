@@ -10,7 +10,7 @@ Plase check the `stagenow.pdf` file
 
 ## StageNow PDF417 barcode
 
-![StageNow Custom profile](https://cdn-101.anonfiles.com/F2R0Z32ez1/21772ef6-1689777281/Screenshot+%281784%29.png)
+![StageNow Custom profile](https://cdn-146.anonfiles.com/F2R0Z32ez1/0078cf62-1689784987/Screenshot+%281784%29.png)
 
 ## (Optional) Creating the DataWedge profile manually
 
